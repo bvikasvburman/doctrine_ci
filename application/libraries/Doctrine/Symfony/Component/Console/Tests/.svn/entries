@@ -1,0 +1,86 @@
+10
+
+dir
+261
+svn://192.168.0.2/PHP/hrs/trunk/vendor/symfony/symfony/src/Symfony/Component/Console/Tests
+svn://192.168.0.2/PHP/hrs
+
+
+
+2013-06-19T15:23:08.285224Z
+1
+Vikas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+63e127eb-b1ec-c84e-814d-b702031f87b4
+
+Helper
+dir
+
+Input
+dir
+
+Output
+dir
+
+Formatter
+dir
+
+Tester
+dir
+
+Fixtures
+dir
+
+ApplicationTest.php
+file
+
+
+
+
+2013-06-19T15:26:49.304707Z
+c33d17b11bd948c17ab0b6b22664699f
+2013-06-19T15:23:08.285224Z
+1
+Vikas
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+38799
+
+Command
+dir
+
+Descriptor
+dir
+

@@ -1,0 +1,20 @@
+Entities\User:
+  type: entity
+  table: profile
+  fields:
+    id:
+      type: integer
+      id: true
+      generator:
+        strategy: AUTO
+    name:
+      type: string
+      length: 100
+      nullable: false
+      column: name
+    age:
+      type: string
+      length: 255
+      nullable: false
+      column: age
+    
